@@ -32,10 +32,10 @@ p{
     font-size: 20px;
 }
 img{
-    height: 200px;
+  
 }
 
-.categoria{
+.categoria-videos{
     display:flex;
     overflow-x: auto;
     gap: 10px;
