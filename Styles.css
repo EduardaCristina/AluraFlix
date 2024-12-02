@@ -33,7 +33,7 @@ p{
 }
 
 
-.categoria-videos{
+.categoria{
     display: flex;
     overflow-x: auto;
     gap: 10px;
